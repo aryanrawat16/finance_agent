@@ -1,0 +1,2263 @@
+{
+  "accounts": [
+    {
+      "accountId": "acc1",
+      "userId": "user1",
+      "accountType": "savings",
+      "balance": 85000
+    }
+  ],
+  "transactions": [
+    {
+      "txnId": "txn35",
+      "accountId": "acc1",
+      "amount": 921,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-10-07T10:52:00.000Z"
+    },
+    {
+      "txnId": "txn73",
+      "accountId": "acc1",
+      "amount": 1588,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-10-05T17:28:00.000Z"
+    },
+    {
+      "txnId": "txn34",
+      "accountId": "acc1",
+      "amount": 742,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-10-05T09:43:00.000Z"
+    },
+    {
+      "txnId": "txn41",
+      "accountId": "acc1",
+      "amount": 646,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-10-05T03:24:00.000Z"
+    },
+    {
+      "txnId": "txn61",
+      "accountId": "acc1",
+      "amount": 5173,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-10-05T03:04:00.000Z"
+    },
+    {
+      "txnId": "txn244",
+      "accountId": "acc1",
+      "amount": 2000,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-10-04T12:48:00.000Z"
+    },
+    {
+      "txnId": "txn56",
+      "accountId": "acc1",
+      "amount": 145,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-10-04T12:09:00.000Z"
+    },
+    {
+      "txnId": "txn72",
+      "accountId": "acc1",
+      "amount": 805,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-10-04T07:49:00.000Z"
+    },
+    {
+      "txnId": "txn98",
+      "accountId": "acc1",
+      "amount": 651,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-10-04T06:27:00.000Z"
+    },
+    {
+      "txnId": "txn15",
+      "accountId": "acc1",
+      "amount": 1655,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-10-04T06:05:00.000Z"
+    },
+    {
+      "txnId": "txn52",
+      "accountId": "acc1",
+      "amount": 13087,
+      "type": "credit",
+      "category": "income",
+      "merchant": "UPI Received",
+      "date": "2026-10-04T02:48:00.000Z"
+    },
+    {
+      "txnId": "txn120",
+      "accountId": "acc1",
+      "amount": 756,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-10-03T14:54:00.000Z"
+    },
+    {
+      "txnId": "txn179",
+      "accountId": "acc1",
+      "amount": 427,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-10-03T09:33:00.000Z"
+    },
+    {
+      "txnId": "txn90",
+      "accountId": "acc1",
+      "amount": 447,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-10-02T09:28:00.000Z"
+    },
+    {
+      "txnId": "txn192",
+      "accountId": "acc1",
+      "amount": 210,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-10-01T12:11:00.000Z"
+    },
+    {
+      "txnId": "txn198",
+      "accountId": "acc1",
+      "amount": 3714,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-10-01T06:09:00.000Z"
+    },
+    {
+      "txnId": "txn125",
+      "accountId": "acc1",
+      "amount": 719,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-09-30T10:20:00.000Z"
+    },
+    {
+      "txnId": "txn177",
+      "accountId": "acc1",
+      "amount": 387,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-09-30T08:33:00.000Z"
+    },
+    {
+      "txnId": "txn63",
+      "accountId": "acc1",
+      "amount": 1733,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-09-30T08:08:00.000Z"
+    },
+    {
+      "txnId": "txn212",
+      "accountId": "acc1",
+      "amount": 347,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-28T05:34:00.000Z"
+    },
+    {
+      "txnId": "txn87",
+      "accountId": "acc1",
+      "amount": 710,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-09-28T04:46:00.000Z"
+    },
+    {
+      "txnId": "txn180",
+      "accountId": "acc1",
+      "amount": 4866,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-09-27T13:21:00.000Z"
+    },
+    {
+      "txnId": "txn99",
+      "accountId": "acc1",
+      "amount": 2430,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-09-27T12:21:00.000Z"
+    },
+    {
+      "txnId": "txn230",
+      "accountId": "acc1",
+      "amount": 10027,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Refund",
+      "date": "2026-09-27T10:20:00.000Z"
+    },
+    {
+      "txnId": "txn134",
+      "accountId": "acc1",
+      "amount": 2193,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-09-27T04:43:00.000Z"
+    },
+    {
+      "txnId": "txn75",
+      "accountId": "acc1",
+      "amount": 577,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-09-27T03:56:00.000Z"
+    },
+    {
+      "txnId": "txn78",
+      "accountId": "acc1",
+      "amount": 544,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-09-26T13:29:00.000Z"
+    },
+    {
+      "txnId": "txn123",
+      "accountId": "acc1",
+      "amount": 868,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-09-26T09:55:00.000Z"
+    },
+    {
+      "txnId": "txn50",
+      "accountId": "acc1",
+      "amount": 582,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-25T12:44:00.000Z"
+    },
+    {
+      "txnId": "txn6",
+      "accountId": "acc1",
+      "amount": 19986,
+      "type": "credit",
+      "category": "income",
+      "merchant": "UPI Received",
+      "date": "2026-09-25T11:42:00.000Z"
+    },
+    {
+      "txnId": "txn239",
+      "accountId": "acc1",
+      "amount": 110,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-09-25T03:08:00.000Z"
+    },
+    {
+      "txnId": "txn79",
+      "accountId": "acc1",
+      "amount": 3824,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-09-24T14:46:00.000Z"
+    },
+    {
+      "txnId": "txn236",
+      "accountId": "acc1",
+      "amount": 700,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-24T04:57:00.000Z"
+    },
+    {
+      "txnId": "txn232",
+      "accountId": "acc1",
+      "amount": 826,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-22T14:53:00.000Z"
+    },
+    {
+      "txnId": "txn62",
+      "accountId": "acc1",
+      "amount": 308,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-22T14:39:00.000Z"
+    },
+    {
+      "txnId": "txn104",
+      "accountId": "acc1",
+      "amount": 790,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-09-22T11:07:00.000Z"
+    },
+    {
+      "txnId": "txn27",
+      "accountId": "acc1",
+      "amount": 1230,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-09-22T06:06:00.000Z"
+    },
+    {
+      "txnId": "txn135",
+      "accountId": "acc1",
+      "amount": 4738,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-09-22T03:22:00.000Z"
+    },
+    {
+      "txnId": "txn214",
+      "accountId": "acc1",
+      "amount": 233,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-09-21T12:02:00.000Z"
+    },
+    {
+      "txnId": "txn219",
+      "accountId": "acc1",
+      "amount": 5630,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-09-20T16:30:00.000Z"
+    },
+    {
+      "txnId": "txn184",
+      "accountId": "acc1",
+      "amount": 2597,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-09-20T07:30:00.000Z"
+    },
+    {
+      "txnId": "txn202",
+      "accountId": "acc1",
+      "amount": 1837,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-09-19T12:50:00.000Z"
+    },
+    {
+      "txnId": "txn194",
+      "accountId": "acc1",
+      "amount": 861,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-09-19T12:34:00.000Z"
+    },
+    {
+      "txnId": "txn208",
+      "accountId": "acc1",
+      "amount": 680,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-09-19T03:35:00.000Z"
+    },
+    {
+      "txnId": "txn3",
+      "accountId": "acc1",
+      "amount": 517,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-09-18T13:31:00.000Z"
+    },
+    {
+      "txnId": "txn170",
+      "accountId": "acc1",
+      "amount": 14958,
+      "type": "credit",
+      "category": "income",
+      "merchant": "UPI Received",
+      "date": "2026-09-18T07:07:00.000Z"
+    },
+    {
+      "txnId": "txn211",
+      "accountId": "acc1",
+      "amount": 425,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-09-18T05:14:00.000Z"
+    },
+    {
+      "txnId": "txn108",
+      "accountId": "acc1",
+      "amount": 452,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-09-16T16:29:00.000Z"
+    },
+    {
+      "txnId": "txn51",
+      "accountId": "acc1",
+      "amount": 308,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-09-16T10:10:00.000Z"
+    },
+    {
+      "txnId": "txn28",
+      "accountId": "acc1",
+      "amount": 438,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-09-16T05:00:00.000Z"
+    },
+    {
+      "txnId": "txn13",
+      "accountId": "acc1",
+      "amount": 1189,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-09-15T11:09:00.000Z"
+    },
+    {
+      "txnId": "txn199",
+      "accountId": "acc1",
+      "amount": 1468,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-09-15T04:36:00.000Z"
+    },
+    {
+      "txnId": "txn69",
+      "accountId": "acc1",
+      "amount": 1798,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-09-14T09:00:00.000Z"
+    },
+    {
+      "txnId": "txn38",
+      "accountId": "acc1",
+      "amount": 610,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-14T03:21:00.000Z"
+    },
+    {
+      "txnId": "txn37",
+      "accountId": "acc1",
+      "amount": 730,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-09-13T05:58:00.000Z"
+    },
+    {
+      "txnId": "txn238",
+      "accountId": "acc1",
+      "amount": 5718,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-09-13T04:24:00.000Z"
+    },
+    {
+      "txnId": "txn167",
+      "accountId": "acc1",
+      "amount": 307,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-09-12T16:15:00.000Z"
+    },
+    {
+      "txnId": "txn193",
+      "accountId": "acc1",
+      "amount": 347,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-09-12T16:06:00.000Z"
+    },
+    {
+      "txnId": "txn96",
+      "accountId": "acc1",
+      "amount": 2058,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-09-12T07:14:00.000Z"
+    },
+    {
+      "txnId": "txn157",
+      "accountId": "acc1",
+      "amount": 2479,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-09-12T04:53:00.000Z"
+    },
+    {
+      "txnId": "txn200",
+      "accountId": "acc1",
+      "amount": 856,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-09-11T11:56:00.000Z"
+    },
+    {
+      "txnId": "txn81",
+      "accountId": "acc1",
+      "amount": 376,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-09-11T03:53:00.000Z"
+    },
+    {
+      "txnId": "txn80",
+      "accountId": "acc1",
+      "amount": 4402,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-09-11T02:42:00.000Z"
+    },
+    {
+      "txnId": "txn246",
+      "accountId": "acc1",
+      "amount": 158,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-09-10T17:12:00.000Z"
+    },
+    {
+      "txnId": "txn88",
+      "accountId": "acc1",
+      "amount": 580,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-09-09T11:07:00.000Z"
+    },
+    {
+      "txnId": "txn32",
+      "accountId": "acc1",
+      "amount": 344,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-09-09T08:03:00.000Z"
+    },
+    {
+      "txnId": "txn43",
+      "accountId": "acc1",
+      "amount": 290,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-09-09T06:59:00.000Z"
+    },
+    {
+      "txnId": "txn129",
+      "accountId": "acc1",
+      "amount": 1789,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-09-08T03:57:00.000Z"
+    },
+    {
+      "txnId": "txn156",
+      "accountId": "acc1",
+      "amount": 377,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-09-07T12:09:00.000Z"
+    },
+    {
+      "txnId": "txn228",
+      "accountId": "acc1",
+      "amount": 1084,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-09-06T15:53:00.000Z"
+    },
+    {
+      "txnId": "txn2",
+      "accountId": "acc1",
+      "amount": 2085,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-09-06T06:55:00.000Z"
+    },
+    {
+      "txnId": "txn245",
+      "accountId": "acc1",
+      "amount": 868,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-09-05T12:43:00.000Z"
+    },
+    {
+      "txnId": "txn205",
+      "accountId": "acc1",
+      "amount": 546,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-09-05T06:13:00.000Z"
+    },
+    {
+      "txnId": "txn68",
+      "accountId": "acc1",
+      "amount": 2482,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-09-04T12:03:00.000Z"
+    },
+    {
+      "txnId": "txn36",
+      "accountId": "acc1",
+      "amount": 1819,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-09-04T11:27:00.000Z"
+    },
+    {
+      "txnId": "txn71",
+      "accountId": "acc1",
+      "amount": 735,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-09-04T04:21:00.000Z"
+    },
+    {
+      "txnId": "txn60",
+      "accountId": "acc1",
+      "amount": 716,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-09-03T12:58:00.000Z"
+    },
+    {
+      "txnId": "txn186",
+      "accountId": "acc1",
+      "amount": 2399,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-09-03T05:47:00.000Z"
+    },
+    {
+      "txnId": "txn122",
+      "accountId": "acc1",
+      "amount": 316,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-03T04:26:00.000Z"
+    },
+    {
+      "txnId": "txn4",
+      "accountId": "acc1",
+      "amount": 696,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-09-02T13:54:00.000Z"
+    },
+    {
+      "txnId": "txn29",
+      "accountId": "acc1",
+      "amount": 2720,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-09-02T13:48:00.000Z"
+    },
+    {
+      "txnId": "txn45",
+      "accountId": "acc1",
+      "amount": 1285,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-09-02T13:07:00.000Z"
+    },
+    {
+      "txnId": "txn201",
+      "accountId": "acc1",
+      "amount": 378,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-09-02T07:53:00.000Z"
+    },
+    {
+      "txnId": "txn226",
+      "accountId": "acc1",
+      "amount": 407,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-09-02T03:49:00.000Z"
+    },
+    {
+      "txnId": "txn191",
+      "accountId": "acc1",
+      "amount": 223,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-09-01T15:18:00.000Z"
+    },
+    {
+      "txnId": "txn48",
+      "accountId": "acc1",
+      "amount": 1551,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-09-01T06:08:00.000Z"
+    },
+    {
+      "txnId": "txn54",
+      "accountId": "acc1",
+      "amount": 2407,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-08-31T17:11:00.000Z"
+    },
+    {
+      "txnId": "txn86",
+      "accountId": "acc1",
+      "amount": 4692,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-30T17:20:00.000Z"
+    },
+    {
+      "txnId": "txn64",
+      "accountId": "acc1",
+      "amount": 1171,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-08-30T14:03:00.000Z"
+    },
+    {
+      "txnId": "txn207",
+      "accountId": "acc1",
+      "amount": 938,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-08-30T07:07:00.000Z"
+    },
+    {
+      "txnId": "txn181",
+      "accountId": "acc1",
+      "amount": 872,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-08-30T03:06:00.000Z"
+    },
+    {
+      "txnId": "txn19",
+      "accountId": "acc1",
+      "amount": 473,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-08-29T09:04:00.000Z"
+    },
+    {
+      "txnId": "txn203",
+      "accountId": "acc1",
+      "amount": 234,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-08-28T12:49:00.000Z"
+    },
+    {
+      "txnId": "txn143",
+      "accountId": "acc1",
+      "amount": 323,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Uber",
+      "date": "2026-08-28T07:21:00.000Z"
+    },
+    {
+      "txnId": "txn187",
+      "accountId": "acc1",
+      "amount": 2657,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-08-28T05:31:00.000Z"
+    },
+    {
+      "txnId": "txn44",
+      "accountId": "acc1",
+      "amount": 595,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-08-28T04:55:00.000Z"
+    },
+    {
+      "txnId": "txn151",
+      "accountId": "acc1",
+      "amount": 14987,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Refund",
+      "date": "2026-08-27T17:12:00.000Z"
+    },
+    {
+      "txnId": "txn155",
+      "accountId": "acc1",
+      "amount": 232,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-08-27T15:03:00.000Z"
+    },
+    {
+      "txnId": "txn100",
+      "accountId": "acc1",
+      "amount": 722,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-08-27T06:06:00.000Z"
+    },
+    {
+      "txnId": "txn5",
+      "accountId": "acc1",
+      "amount": 805,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-08-27T02:34:00.000Z"
+    },
+    {
+      "txnId": "txn67",
+      "accountId": "acc1",
+      "amount": 4676,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-26T14:00:00.000Z"
+    },
+    {
+      "txnId": "txn189",
+      "accountId": "acc1",
+      "amount": 372,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-08-26T12:28:00.000Z"
+    },
+    {
+      "txnId": "txn70",
+      "accountId": "acc1",
+      "amount": 1477,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-08-26T08:00:00.000Z"
+    },
+    {
+      "txnId": "txn174",
+      "accountId": "acc1",
+      "amount": 192,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Uber",
+      "date": "2026-08-26T04:27:00.000Z"
+    },
+    {
+      "txnId": "txn160",
+      "accountId": "acc1",
+      "amount": 372,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-08-24T17:24:00.000Z"
+    },
+    {
+      "txnId": "txn139",
+      "accountId": "acc1",
+      "amount": 3837,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-24T12:13:00.000Z"
+    },
+    {
+      "txnId": "txn223",
+      "accountId": "acc1",
+      "amount": 4205,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-08-24T03:11:00.000Z"
+    },
+    {
+      "txnId": "txn146",
+      "accountId": "acc1",
+      "amount": 5201,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-08-23T15:58:00.000Z"
+    },
+    {
+      "txnId": "txn218",
+      "accountId": "acc1",
+      "amount": 680,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-08-23T13:23:00.000Z"
+    },
+    {
+      "txnId": "txn147",
+      "accountId": "acc1",
+      "amount": 365,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-08-23T03:33:00.000Z"
+    },
+    {
+      "txnId": "txn42",
+      "accountId": "acc1",
+      "amount": 552,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-08-22T16:50:00.000Z"
+    },
+    {
+      "txnId": "txn77",
+      "accountId": "acc1",
+      "amount": 368,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-08-22T13:43:00.000Z"
+    },
+    {
+      "txnId": "txn166",
+      "accountId": "acc1",
+      "amount": 1823,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-08-22T12:48:00.000Z"
+    },
+    {
+      "txnId": "txn47",
+      "accountId": "acc1",
+      "amount": 20775,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Salary",
+      "date": "2026-08-22T11:03:00.000Z"
+    },
+    {
+      "txnId": "txn24",
+      "accountId": "acc1",
+      "amount": 3071,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-08-22T10:35:00.000Z"
+    },
+    {
+      "txnId": "txn11",
+      "accountId": "acc1",
+      "amount": 2297,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-08-22T10:12:00.000Z"
+    },
+    {
+      "txnId": "txn148",
+      "accountId": "acc1",
+      "amount": 27469,
+      "type": "credit",
+      "category": "income",
+      "merchant": "UPI Received",
+      "date": "2026-08-22T02:59:00.000Z"
+    },
+    {
+      "txnId": "txn21",
+      "accountId": "acc1",
+      "amount": 103,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-08-20T08:19:00.000Z"
+    },
+    {
+      "txnId": "txn111",
+      "accountId": "acc1",
+      "amount": 1412,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-08-19T16:05:00.000Z"
+    },
+    {
+      "txnId": "txn12",
+      "accountId": "acc1",
+      "amount": 20486,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Refund",
+      "date": "2026-08-19T15:14:00.000Z"
+    },
+    {
+      "txnId": "txn119",
+      "accountId": "acc1",
+      "amount": 1795,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-08-19T12:33:00.000Z"
+    },
+    {
+      "txnId": "txn17",
+      "accountId": "acc1",
+      "amount": 5348,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-08-19T11:30:00.000Z"
+    },
+    {
+      "txnId": "txn142",
+      "accountId": "acc1",
+      "amount": 2341,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-08-19T06:53:00.000Z"
+    },
+    {
+      "txnId": "txn164",
+      "accountId": "acc1",
+      "amount": 1780,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-08-19T05:00:00.000Z"
+    },
+    {
+      "txnId": "txn247",
+      "accountId": "acc1",
+      "amount": 500,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-08-19T04:27:00.000Z"
+    },
+    {
+      "txnId": "txn85",
+      "accountId": "acc1",
+      "amount": 281,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-08-18T10:06:00.000Z"
+    },
+    {
+      "txnId": "txn20",
+      "accountId": "acc1",
+      "amount": 2197,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-08-18T05:09:00.000Z"
+    },
+    {
+      "txnId": "txn74",
+      "accountId": "acc1",
+      "amount": 525,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-08-18T02:34:00.000Z"
+    },
+    {
+      "txnId": "txn105",
+      "accountId": "acc1",
+      "amount": 17742,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Refund",
+      "date": "2026-08-17T17:02:00.000Z"
+    },
+    {
+      "txnId": "txn248",
+      "accountId": "acc1",
+      "amount": 2339,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-08-17T16:48:00.000Z"
+    },
+    {
+      "txnId": "txn217",
+      "accountId": "acc1",
+      "amount": 1967,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-08-17T16:07:00.000Z"
+    },
+    {
+      "txnId": "txn242",
+      "accountId": "acc1",
+      "amount": 605,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-08-16T17:15:00.000Z"
+    },
+    {
+      "txnId": "txn83",
+      "accountId": "acc1",
+      "amount": 10549,
+      "type": "credit",
+      "category": "income",
+      "merchant": "UPI Received",
+      "date": "2026-08-16T13:26:00.000Z"
+    },
+    {
+      "txnId": "txn113",
+      "accountId": "acc1",
+      "amount": 2368,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-08-16T04:39:00.000Z"
+    },
+    {
+      "txnId": "txn107",
+      "accountId": "acc1",
+      "amount": 4888,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-15T16:38:00.000Z"
+    },
+    {
+      "txnId": "txn227",
+      "accountId": "acc1",
+      "amount": 5150,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-08-15T14:39:00.000Z"
+    },
+    {
+      "txnId": "txn101",
+      "accountId": "acc1",
+      "amount": 5993,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-15T13:43:00.000Z"
+    },
+    {
+      "txnId": "txn234",
+      "accountId": "acc1",
+      "amount": 2492,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-08-15T13:13:00.000Z"
+    },
+    {
+      "txnId": "txn46",
+      "accountId": "acc1",
+      "amount": 872,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-08-15T08:39:00.000Z"
+    },
+    {
+      "txnId": "txn8",
+      "accountId": "acc1",
+      "amount": 897,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-08-14T16:34:00.000Z"
+    },
+    {
+      "txnId": "txn110",
+      "accountId": "acc1",
+      "amount": 526,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-08-14T14:02:00.000Z"
+    },
+    {
+      "txnId": "txn188",
+      "accountId": "acc1",
+      "amount": 3179,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-08-14T08:57:00.000Z"
+    },
+    {
+      "txnId": "txn225",
+      "accountId": "acc1",
+      "amount": 1086,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-08-14T03:11:00.000Z"
+    },
+    {
+      "txnId": "txn91",
+      "accountId": "acc1",
+      "amount": 691,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-08-13T07:18:00.000Z"
+    },
+    {
+      "txnId": "txn233",
+      "accountId": "acc1",
+      "amount": 786,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-08-12T12:01:00.000Z"
+    },
+    {
+      "txnId": "txn102",
+      "accountId": "acc1",
+      "amount": 1237,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-08-12T09:40:00.000Z"
+    },
+    {
+      "txnId": "txn141",
+      "accountId": "acc1",
+      "amount": 1622,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-08-12T04:46:00.000Z"
+    },
+    {
+      "txnId": "txn137",
+      "accountId": "acc1",
+      "amount": 1346,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-08-11T08:53:00.000Z"
+    },
+    {
+      "txnId": "txn165",
+      "accountId": "acc1",
+      "amount": 2777,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-10T15:53:00.000Z"
+    },
+    {
+      "txnId": "txn221",
+      "accountId": "acc1",
+      "amount": 1136,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Uber",
+      "date": "2026-08-10T11:44:00.000Z"
+    },
+    {
+      "txnId": "txn240",
+      "accountId": "acc1",
+      "amount": 216,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-08-10T10:54:00.000Z"
+    },
+    {
+      "txnId": "txn150",
+      "accountId": "acc1",
+      "amount": 469,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-08-10T10:36:00.000Z"
+    },
+    {
+      "txnId": "txn109",
+      "accountId": "acc1",
+      "amount": 984,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Uber",
+      "date": "2026-08-10T08:21:00.000Z"
+    },
+    {
+      "txnId": "txn169",
+      "accountId": "acc1",
+      "amount": 1099,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-08-10T05:51:00.000Z"
+    },
+    {
+      "txnId": "txn216",
+      "accountId": "acc1",
+      "amount": 338,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Reliance Digital",
+      "date": "2026-08-09T09:55:00.000Z"
+    },
+    {
+      "txnId": "txn158",
+      "accountId": "acc1",
+      "amount": 150,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-08-09T07:14:00.000Z"
+    },
+    {
+      "txnId": "txn106",
+      "accountId": "acc1",
+      "amount": 1671,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-08-08T14:44:00.000Z"
+    },
+    {
+      "txnId": "txn10",
+      "accountId": "acc1",
+      "amount": 15724,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Salary",
+      "date": "2026-08-08T12:19:00.000Z"
+    },
+    {
+      "txnId": "txn94",
+      "accountId": "acc1",
+      "amount": 685,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-08-08T10:12:00.000Z"
+    },
+    {
+      "txnId": "txn224",
+      "accountId": "acc1",
+      "amount": 916,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-08-08T06:13:00.000Z"
+    },
+    {
+      "txnId": "txn161",
+      "accountId": "acc1",
+      "amount": 266,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-08-08T04:25:00.000Z"
+    },
+    {
+      "txnId": "txn183",
+      "accountId": "acc1",
+      "amount": 2129,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-08-07T16:22:00.000Z"
+    },
+    {
+      "txnId": "txn190",
+      "accountId": "acc1",
+      "amount": 1309,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-08-07T11:21:00.000Z"
+    },
+    {
+      "txnId": "txn59",
+      "accountId": "acc1",
+      "amount": 400,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-08-07T11:03:00.000Z"
+    },
+    {
+      "txnId": "txn168",
+      "accountId": "acc1",
+      "amount": 1765,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-08-07T07:17:00.000Z"
+    },
+    {
+      "txnId": "txn58",
+      "accountId": "acc1",
+      "amount": 830,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-08-07T05:25:00.000Z"
+    },
+    {
+      "txnId": "txn126",
+      "accountId": "acc1",
+      "amount": 586,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-08-06T16:10:00.000Z"
+    },
+    {
+      "txnId": "txn213",
+      "accountId": "acc1",
+      "amount": 4390,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-06T13:29:00.000Z"
+    },
+    {
+      "txnId": "txn97",
+      "accountId": "acc1",
+      "amount": 2127,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-08-06T12:34:00.000Z"
+    },
+    {
+      "txnId": "txn84",
+      "accountId": "acc1",
+      "amount": 845,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-08-06T05:16:00.000Z"
+    },
+    {
+      "txnId": "txn153",
+      "accountId": "acc1",
+      "amount": 213,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-08-06T04:23:00.000Z"
+    },
+    {
+      "txnId": "txn145",
+      "accountId": "acc1",
+      "amount": 645,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-08-05T03:52:00.000Z"
+    },
+    {
+      "txnId": "txn14",
+      "accountId": "acc1",
+      "amount": 2459,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-08-04T16:39:00.000Z"
+    },
+    {
+      "txnId": "txn206",
+      "accountId": "acc1",
+      "amount": 5647,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-08-04T15:31:00.000Z"
+    },
+    {
+      "txnId": "txn40",
+      "accountId": "acc1",
+      "amount": 5647,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-08-04T04:28:00.000Z"
+    },
+    {
+      "txnId": "txn116",
+      "accountId": "acc1",
+      "amount": 720,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-08-02T16:40:00.000Z"
+    },
+    {
+      "txnId": "txn22",
+      "accountId": "acc1",
+      "amount": 4389,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-08-02T15:48:00.000Z"
+    },
+    {
+      "txnId": "txn132",
+      "accountId": "acc1",
+      "amount": 3603,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-02T11:36:00.000Z"
+    },
+    {
+      "txnId": "txn231",
+      "accountId": "acc1",
+      "amount": 1247,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-08-02T06:25:00.000Z"
+    },
+    {
+      "txnId": "txn222",
+      "accountId": "acc1",
+      "amount": 1956,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-08-02T06:20:00.000Z"
+    },
+    {
+      "txnId": "txn39",
+      "accountId": "acc1",
+      "amount": 5302,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-01T16:52:00.000Z"
+    },
+    {
+      "txnId": "txn95",
+      "accountId": "acc1",
+      "amount": 734,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-08-01T14:33:00.000Z"
+    },
+    {
+      "txnId": "txn215",
+      "accountId": "acc1",
+      "amount": 837,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-08-01T14:22:00.000Z"
+    },
+    {
+      "txnId": "txn118",
+      "accountId": "acc1",
+      "amount": 1921,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-08-01T08:54:00.000Z"
+    },
+    {
+      "txnId": "txn209",
+      "accountId": "acc1",
+      "amount": 346,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-08-01T07:43:00.000Z"
+    },
+    {
+      "txnId": "txn229",
+      "accountId": "acc1",
+      "amount": 5761,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-07-31T13:13:00.000Z"
+    },
+    {
+      "txnId": "txn103",
+      "accountId": "acc1",
+      "amount": 1870,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-07-31T11:03:00.000Z"
+    },
+    {
+      "txnId": "txn185",
+      "accountId": "acc1",
+      "amount": 477,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-07-30T09:47:00.000Z"
+    },
+    {
+      "txnId": "txn210",
+      "accountId": "acc1",
+      "amount": 411,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-07-30T03:50:00.000Z"
+    },
+    {
+      "txnId": "txn149",
+      "accountId": "acc1",
+      "amount": 2600,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-07-29T10:49:00.000Z"
+    },
+    {
+      "txnId": "txn65",
+      "accountId": "acc1",
+      "amount": 5781,
+      "type": "credit",
+      "category": "income",
+      "merchant": "UPI Received",
+      "date": "2026-07-29T06:36:00.000Z"
+    },
+    {
+      "txnId": "txn33",
+      "accountId": "acc1",
+      "amount": 199,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-07-28T16:42:00.000Z"
+    },
+    {
+      "txnId": "txn127",
+      "accountId": "acc1",
+      "amount": 3177,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-07-28T09:34:00.000Z"
+    },
+    {
+      "txnId": "txn93",
+      "accountId": "acc1",
+      "amount": 917,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-07-28T04:59:00.000Z"
+    },
+    {
+      "txnId": "txn250",
+      "accountId": "acc1",
+      "amount": 1250,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Ola",
+      "date": "2026-07-28T04:13:00.000Z"
+    },
+    {
+      "txnId": "txn76",
+      "accountId": "acc1",
+      "amount": 1905,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-07-28T03:39:00.000Z"
+    },
+    {
+      "txnId": "txn66",
+      "accountId": "acc1",
+      "amount": 24627,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Salary",
+      "date": "2026-07-28T02:37:00.000Z"
+    },
+    {
+      "txnId": "txn204",
+      "accountId": "acc1",
+      "amount": 409,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-07-27T15:08:00.000Z"
+    },
+    {
+      "txnId": "txn53",
+      "accountId": "acc1",
+      "amount": 604,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-07-27T14:17:00.000Z"
+    },
+    {
+      "txnId": "txn197",
+      "accountId": "acc1",
+      "amount": 1382,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-07-26T14:56:00.000Z"
+    },
+    {
+      "txnId": "txn49",
+      "accountId": "acc1",
+      "amount": 496,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-07-26T14:34:00.000Z"
+    },
+    {
+      "txnId": "txn152",
+      "accountId": "acc1",
+      "amount": 1323,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-07-26T14:00:00.000Z"
+    },
+    {
+      "txnId": "txn55",
+      "accountId": "acc1",
+      "amount": 288,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-07-26T13:19:00.000Z"
+    },
+    {
+      "txnId": "txn243",
+      "accountId": "acc1",
+      "amount": 22730,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Refund",
+      "date": "2026-07-26T12:39:00.000Z"
+    },
+    {
+      "txnId": "txn220",
+      "accountId": "acc1",
+      "amount": 12924,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Salary",
+      "date": "2026-07-26T11:59:00.000Z"
+    },
+    {
+      "txnId": "txn18",
+      "accountId": "acc1",
+      "amount": 2194,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Uber",
+      "date": "2026-07-26T10:28:00.000Z"
+    },
+    {
+      "txnId": "txn176",
+      "accountId": "acc1",
+      "amount": 1257,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-07-26T03:11:00.000Z"
+    },
+    {
+      "txnId": "txn117",
+      "accountId": "acc1",
+      "amount": 856,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-07-25T14:43:00.000Z"
+    },
+    {
+      "txnId": "txn163",
+      "accountId": "acc1",
+      "amount": 295,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-07-25T13:02:00.000Z"
+    },
+    {
+      "txnId": "txn9",
+      "accountId": "acc1",
+      "amount": 2242,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-07-25T11:58:00.000Z"
+    },
+    {
+      "txnId": "txn1",
+      "accountId": "acc1",
+      "amount": 1060,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Electricity Board",
+      "date": "2026-07-24T05:53:00.000Z"
+    },
+    {
+      "txnId": "txn57",
+      "accountId": "acc1",
+      "amount": 2396,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-07-22T17:24:00.000Z"
+    },
+    {
+      "txnId": "txn114",
+      "accountId": "acc1",
+      "amount": 3875,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-07-22T12:29:00.000Z"
+    },
+    {
+      "txnId": "txn131",
+      "accountId": "acc1",
+      "amount": 487,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-07-22T11:58:00.000Z"
+    },
+    {
+      "txnId": "txn26",
+      "accountId": "acc1",
+      "amount": 2247,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "txnId": "txn140",
+      "accountId": "acc1",
+      "amount": 706,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-07-22T10:43:00.000Z"
+    },
+    {
+      "txnId": "txn241",
+      "accountId": "acc1",
+      "amount": 1375,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-07-20T14:56:00.000Z"
+    },
+    {
+      "txnId": "txn159",
+      "accountId": "acc1",
+      "amount": 1227,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Jio",
+      "date": "2026-07-20T14:40:00.000Z"
+    },
+    {
+      "txnId": "txn112",
+      "accountId": "acc1",
+      "amount": 15542,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Refund",
+      "date": "2026-07-20T14:17:00.000Z"
+    },
+    {
+      "txnId": "txn196",
+      "accountId": "acc1",
+      "amount": 1072,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-07-20T09:33:00.000Z"
+    },
+    {
+      "txnId": "txn178",
+      "accountId": "acc1",
+      "amount": 1465,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-07-20T02:53:00.000Z"
+    },
+    {
+      "txnId": "txn92",
+      "accountId": "acc1",
+      "amount": 2182,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-07-19T09:33:00.000Z"
+    },
+    {
+      "txnId": "txn175",
+      "accountId": "acc1",
+      "amount": 320,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Uber",
+      "date": "2026-07-18T03:03:00.000Z"
+    },
+    {
+      "txnId": "txn115",
+      "accountId": "acc1",
+      "amount": 2487,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-07-17T17:19:00.000Z"
+    },
+    {
+      "txnId": "txn136",
+      "accountId": "acc1",
+      "amount": 126,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Swiggy",
+      "date": "2026-07-17T09:22:00.000Z"
+    },
+    {
+      "txnId": "txn31",
+      "accountId": "acc1",
+      "amount": 385,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-07-16T14:18:00.000Z"
+    },
+    {
+      "txnId": "txn130",
+      "accountId": "acc1",
+      "amount": 2252,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-07-16T12:51:00.000Z"
+    },
+    {
+      "txnId": "txn89",
+      "accountId": "acc1",
+      "amount": 427,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-07-15T10:22:00.000Z"
+    },
+    {
+      "txnId": "txn25",
+      "accountId": "acc1",
+      "amount": 593,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Zomato",
+      "date": "2026-07-15T05:50:00.000Z"
+    },
+    {
+      "txnId": "txn144",
+      "accountId": "acc1",
+      "amount": 3456,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-07-14T13:08:00.000Z"
+    },
+    {
+      "txnId": "txn128",
+      "accountId": "acc1",
+      "amount": 18530,
+      "type": "credit",
+      "category": "income",
+      "merchant": "Salary",
+      "date": "2026-07-14T11:21:00.000Z"
+    },
+    {
+      "txnId": "txn195",
+      "accountId": "acc1",
+      "amount": 613,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-07-14T04:50:00.000Z"
+    },
+    {
+      "txnId": "txn7",
+      "accountId": "acc1",
+      "amount": 2209,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-07-13T15:24:00.000Z"
+    },
+    {
+      "txnId": "txn82",
+      "accountId": "acc1",
+      "amount": 425,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Uber",
+      "date": "2026-07-13T03:36:00.000Z"
+    },
+    {
+      "txnId": "txn173",
+      "accountId": "acc1",
+      "amount": 411,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-07-12T14:37:00.000Z"
+    },
+    {
+      "txnId": "txn16",
+      "accountId": "acc1",
+      "amount": 2150,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Myntra",
+      "date": "2026-07-12T11:44:00.000Z"
+    },
+    {
+      "txnId": "txn133",
+      "accountId": "acc1",
+      "amount": 1563,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-07-12T08:41:00.000Z"
+    },
+    {
+      "txnId": "txn124",
+      "accountId": "acc1",
+      "amount": 463,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-07-12T06:51:00.000Z"
+    },
+    {
+      "txnId": "txn154",
+      "accountId": "acc1",
+      "amount": 429,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Local Dhaba",
+      "date": "2026-07-12T06:18:00.000Z"
+    },
+    {
+      "txnId": "txn162",
+      "accountId": "acc1",
+      "amount": 1465,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "IRCTC",
+      "date": "2026-07-11T10:56:00.000Z"
+    },
+    {
+      "txnId": "txn30",
+      "accountId": "acc1",
+      "amount": 651,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-07-11T07:40:00.000Z"
+    },
+    {
+      "txnId": "txn138",
+      "accountId": "acc1",
+      "amount": 2374,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Airtel",
+      "date": "2026-07-11T05:12:00.000Z"
+    },
+    {
+      "txnId": "txn23",
+      "accountId": "acc1",
+      "amount": 4807,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Flipkart",
+      "date": "2026-07-10T15:00:00.000Z"
+    },
+    {
+      "txnId": "txn182",
+      "accountId": "acc1",
+      "amount": 1301,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "MakeMyTrip",
+      "date": "2026-07-10T14:48:00.000Z"
+    },
+    {
+      "txnId": "txn235",
+      "accountId": "acc1",
+      "amount": 2098,
+      "type": "debit",
+      "category": "travel",
+      "merchant": "Redbus",
+      "date": "2026-07-10T13:38:00.000Z"
+    },
+    {
+      "txnId": "txn121",
+      "accountId": "acc1",
+      "amount": 770,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Cafe Coffee Day",
+      "date": "2026-07-10T13:03:00.000Z"
+    },
+    {
+      "txnId": "txn171",
+      "accountId": "acc1",
+      "amount": 2386,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Netflix",
+      "date": "2026-07-10T10:50:00.000Z"
+    },
+    {
+      "txnId": "txn237",
+      "accountId": "acc1",
+      "amount": 151,
+      "type": "debit",
+      "category": "food",
+      "merchant": "Dominos",
+      "date": "2026-07-10T10:17:00.000Z"
+    },
+    {
+      "txnId": "txn249",
+      "accountId": "acc1",
+      "amount": 2433,
+      "type": "debit",
+      "category": "bills",
+      "merchant": "Water Dept",
+      "date": "2026-07-10T02:35:00.000Z"
+    },
+    {
+      "txnId": "txn172",
+      "accountId": "acc1",
+      "amount": 4988,
+      "type": "debit",
+      "category": "shopping",
+      "merchant": "Amazon",
+      "date": "2026-07-09T14:18:00.000Z"
+    }
+  ],
+  "budgets": []
+}
